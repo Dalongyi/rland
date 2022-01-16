@@ -1,0 +1,25 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.container
+{
+    width: 800px;
+    height: 800px;
+}
+
+.left-box
+{
+    width: 50%; 
+    height: 50%;
+    background: yellow;
+    display: inline-block, no whiteSpace in HTML;
+}
+
+.right-box{
+    width: 50%; 
+    height: 50%;
+    background:black;
+    display: inline-block, no whiteSpace in HTML;
+}
