@@ -11,10 +11,11 @@ body
 
 .left-box
 {
-    width: 50%; 
+   /* width: 50%; 
     height: 50%;
     background: yellow;
     display: inline-block, no whiteSpace in HTML;
+    */
 }
 
 .right-box{
